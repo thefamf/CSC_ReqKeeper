@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reqs>
+	<Req>
+		<id>2</id>
+		<state>Working</state>
+		<summary>The system shall change a requirement's state from Submitted
+			to Accepted when the user supplies an estimate of the time to
+			implement the requirement and clicks the Accept button.
+		</summary>
+		<estimate>1 hour</estimate>
+		<test>SubmittedToAccepted</test>
+		<developer>An excellent 216 student!</developer>
+	</Req>
+</Reqs>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reqs>
+	<Req>
+		<id>0</id>
+		<state>Submitted</state>
+		<summary>The system shall change a requirement's state from Submitted to Accepted when the user supplies an estimate of the time to implement the requirement and clicks the Accept button.</summary>
+	<test>SubmittedToAccepted</test>
+	</Req>
+	<Req>
+		<id>1</id>
+		<state>Accepted</state>
+		<summary>The system shall change a requirement's state from Submitted to Accepted when the user supplies an estimate of the time to implement the requirement and clicks the Accept button.</summary>
+		<test>SubmittedToAccepted</test>
+		<priority>1</priority>
+		<estimate>1 hour</estimate>
+	</Req>
+	<Req>
+		<id>2</id>
+		<state>Working</state>
+		<summary>The system shall change a requirement's state from Submitted to Accepted when the user supplies an estimate of the time to implement the requirement and clicks the Accept button.</summary>
+		<test>SubmittedToAccepted</test>
+		<priority>1</priority>
+		<estimate>1 hour</estimate>
+		<developer>An excellent 216 student!</developer>
+	</Req>
+	<Req>
+		<id>4</id>
+		<state>Completed</state>
+		<summary>The system shall change a requirement's state from Submitted to Accepted when the user supplies an estimate of the time to implement the requirement and clicks the Accept button.</summary>
+		<test>SubmittedToAccepted</test>
+		<priority>1</priority>
+		<estimate>1 hour</estimate>
+		<developer>An excellent 216 student!</developer>
+	</Req>
+	<Req>
+		<id>23</id>
+		<state>Rejected</state>
+		<summary>The system shall change a requirement's state from Submitted to Accepted when the user supplies an estimate of the time to implement the requirement and clicks the Accept button.</summary>
+		<test>SubmittedToAccepted</test>
+		<rejection>Duplicate</rejection>
+	</Req>
+	<Req>
+		<id>32</id>
+		<state>Verified</state>
+		<summary>The system shall change a requirement's state from Submitted to Accepted when the user supplies an estimate of the time to implement the requirement and clicks the Accept button.</summary>
+		<test>SubmittedToAccepted</test>
+		<priority>1</priority>
+		<estimate>1 hour</estimate>
+		<developer>An excellent 216 student!</developer>
+	</Req>
+</Reqs>

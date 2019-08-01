@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reqs>
+	<Req>
+		<id>23</id>
+		<state>Rejected</state>
+		<summary>The system shall change a requirement's state from Submitted
+			to Accepted when the user supplies an estimate of the time to
+			implement the requirement and clicks the Accept button.</summary>
+		<test>SubmittedToAccepted</test>
+		<priority>1</priority>
+	</Req>
+</Reqs>
